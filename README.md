@@ -11,7 +11,7 @@
 </br>
 
 #### Functionalites:
-[-] Send number of messages to your freinds or a group. Release date:--> 31-12-2018.
+[-] Send number of messages to your freinds or a group. Release date:--> 4-4-2024.
 
 [-] Send whatsapp messages to your friends at specific time you want (omnipresent).
 
